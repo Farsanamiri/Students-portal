@@ -1,0 +1,1 @@
+In this project you have a student portal for add the add show and delete the student
